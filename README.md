@@ -2,7 +2,8 @@
 
 This project presents a comprehensive analysis of Airbnb listings data for Albany, NY. It includes data cleaning, exploratory data analysis (EDA), various insightful visualizations using Python (Pandas, NumPy, Matplotlib, Seaborn), and a final Power BI dashboard for interactive presentation.
 
----
+<img width="1920" height="986" alt="image" src="https://github.com/user-attachments/assets/e6935dc2-1e04-4810-8835-4df6cfbdcf25" />
+
 
 ## 📁 Dataset
 
