@@ -22,7 +22,7 @@ This project presents a comprehensive analysis of Airbnb listings data for Alban
 
 ---
 
-## 🔍 Exploratory Data Analysis (EDA)
+## 🔍 Exploratory Data Analysis (EDA see in file main.ipynb)
 
 Used **Python** libraries for detailed data exploration:
 - **Pandas** for data manipulation
