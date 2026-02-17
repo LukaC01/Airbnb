@@ -29,7 +29,7 @@ Used **Python** libraries for detailed data exploration:
 - **NumPy** for numerical computations
 - **Matplotlib** & **Seaborn** for visualization
 
-### 📊 Key Plots
+### 📊 Key Plots (In the main Aribnb folder)
 
 - histogram  
 - box plots
