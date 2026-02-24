@@ -38,6 +38,12 @@ Used **Python** libraries for detailed data exploration:
 - Scatter plot
 
 ---
+<img width="1471" height="533" alt="barplots" src="https://github.com/user-attachments/assets/4659e4ff-34cd-4579-b70b-b105d0dd228b" />
+
+---
+<img width="689" height="689" alt="boxplot" src="https://github.com/user-attachments/assets/862b5543-dc5b-4662-9b24-6ec5686c5ee3" />
+
+
 
 ## 📊 Power BI Dashboard
 
